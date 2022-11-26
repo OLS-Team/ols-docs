@@ -2,4 +2,5 @@
 
 * For Trainers
 * For Site Owners
-* For Developers
+* [For Developers](gs4/gs4-developers.md)
+
