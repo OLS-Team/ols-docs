@@ -1,5 +1,8 @@
 {
   "workbench.colorCustomizations": {
     "titleBar.activeBackground": "#1909c6"
+  },
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///workspaces/ols-docs/.github/workflows/deploy.yml"
   }
 }
